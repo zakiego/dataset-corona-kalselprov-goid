@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Provinsi Kalimantan Selatan",
+    "url": "https://corona.kalselprov.go.id/chart/result/covid"
+  },
+  {
+    "name": "Kabupaten Banjar",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645941562-96c72bbc-77a2-4aae-855c-efa03ff19d2f"
+  },
+  {
+    "name": "Kabupaten Tapin",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645950717-089b6cb1-02e1-4d06-a0ba-b32b24611b6d"
+  },
+  {
+    "name": "Kabupaten Hulu Sungai Selatan",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645955250-e130f65a-b4cd-45d3-8763-1a72279dde80"
+  },
+  {
+    "name": "Kabupaten Hulu Sungai Tengah",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645959702-c42a2298-5981-4650-b635-6d74d66c8a39"
+  },
+  {
+    "name": "Kabupaten Tabalong",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645968504-999e1a6b-3bd9-4caf-bb7e-f08763e8a230"
+  },
+  {
+    "name": "Kabupaten Balangan",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645977386-e3fa4a9f-1589-46b0-90cc-ce00b16dc147"
+  },
+  {
+    "name": "Kabupaten Tanah Laut",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645930153-175eadb3-8afb-4d4e-9e90-c797ee146172"
+  },
+  {
+    "name": "Kabupaten Barito Kuala",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645946237-59c50afb-e107-4d65-bfd4-c95f4f388107"
+  },
+  {
+    "name": "Kabupaten Hulu Sungai Utara",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645964081-4b6c7b79-a4e6-4147-8678-de186a3614f4"
+  },
+  {
+    "name": "Kabupaten Tanah Bumbu",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645972967-f138f3d3-35a2-411b-acff-1b83a84f7e67"
+  },
+  {
+    "name": "Kota Banjar Baru",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645986486-9006f061-e876-4969-b0a1-9a57975b328d"
+  },
+  {
+    "name": "Kota Banjarmasin",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645981943-816344cc-4e8b-480d-b257-4ec635d020a3"
+  },
+  {
+    "name": "Kabupaten Kotabaru",
+    "url": "https://corona.kalselprov.go.id/city/chart/line/1585123645936679-def8912e-5614-4db5-93bd-edec539cd4da"
+  }
+]
