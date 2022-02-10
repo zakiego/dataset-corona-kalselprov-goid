@@ -6,7 +6,7 @@ on:
   #   - cron: "0 1 * * *" #run every at 01:00:00s UTC / 08.00 GMT +7 / 09.00 GMT +8
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,7 +21,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install pandas
-          pip install json
 
       - name: Execute Script
         run: |
