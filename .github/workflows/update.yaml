@@ -24,7 +24,7 @@ jobs:
 
       - name: Execute Script
         run: |
-          python script/zonasi.py
+          python script/main.py
 
       - name: Add File
         run: |
