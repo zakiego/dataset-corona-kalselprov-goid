@@ -1,5 +1,9 @@
+import ssl
 import pandas as pd
 import json
+
+
+ssl._create_default_https_context = ssl._create_unverified_context
 
 file = open("script/list-api.json", 'r')
 file = json.load(file)
